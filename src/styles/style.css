@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+width: 1062px;
+
+margin: 70px 70px;
+}
+main{
+	height: 3100px;
+}
+
+.leftstr, .rightstr {
+    float: left; 
+    width: 50%; 
+}
+
+.rightstr {
+    text-align: right; 
+}
+
+.firstimg{
+    padding-top: 72px;
+    padding-bottom: 99px;
+}
+
+.content {
+
+    float: left;
+    width: 60%;
+}
+
+aside {
+    width: 30%;
+    float: right;
+    text-align: left;
+}
+
+.sharebar {
+    float: right;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+footer {
+    background-color: #d9d9d9;
+     text-align: left;
+    width: 100%;
+	height: 50px;
+	float: top;
+}
